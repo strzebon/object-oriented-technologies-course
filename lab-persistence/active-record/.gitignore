@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+build/
+active_record.db
+active_record_test.db
